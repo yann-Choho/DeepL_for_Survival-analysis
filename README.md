@@ -1,6 +1,6 @@
 # ENSAE Paris | Institut Polytechnique de Paris
 
-## Projet Séminaire de Modélisation Satistique (2A)
+## Projet Séminaire de Modélisation Statistique (2A)
 
 <center><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LOGO-ENSAE.png/480px-LOGO-ENSAE.png"></center>
 
